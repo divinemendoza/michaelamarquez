@@ -1,0 +1,302 @@
+.header {
+	text-align: center;
+	padding: 20px;
+	background: powderblue;
+	color: black;
+	font-family: Century Gothic;
+	font-size: 10px;
+}
+
+.1 {
+	text-align: center;
+	margin: 10px 5px;
+	height: 80px;
+	width: 200px;
+}
+
+.logo {
+	text-align: center;
+	margin: 10px 5px;
+	height: 50px;
+}
+
+.msg {
+	position: relative;
+	text-align: center;
+	font-family: sans-serif;
+	color: #fff;
+	top: 10px;
+}
+
+.btn {
+	font-size: 30px;
+	color: lightsalmon;
+	letter-spacing: 1px;
+	margin: 5px;
+	padding: 5px 20px;
+	text-decoration: none;
+	border-radius: 20px;
+}
+
+.btn:hover{
+	background: white;
+	color: #fff;
+}
+
+.animals {
+	text-align: center;
+	display: grid;
+	grid-row: 1fr;
+	grid-gap: 5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background: white;
+	color: black;
+	margin-bottom: 5px solid black;
+	margin: 5px;
+}
+
+.animals:hover {
+	background: pink;
+	color: orangered;
+}
+
+.dragonfly {
+	padding: 10px;
+	background: lightpink;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.dragonfly:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container {
+	padding: 10px;
+	background: lightsalmon;
+	font-family: MS gothic;
+	color: black;
+}
+
+.container:hover {
+	background: pink;
+	color: orangereds;
+}
+
+.dog {
+	padding: 10px;
+	background: lightsalmon;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.dog:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container2 {
+	padding: 10px;
+	background: pink;
+	font-family: Bodoni MT Condensed;
+	font-style: center;
+	color: black;
+}
+
+.container2:hover {
+	background: pink;
+	color: orangered;
+}
+
+.cow {
+	padding: 10px;
+	background: powderblue;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.cow:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container7 {
+	padding: 10px;
+	background: pink;
+	font-family: Times New roman;
+	font-size: 20px;
+	color: black;
+}
+
+.container7:hover {
+	background: pink;
+	color: orangered;
+}
+
+.the animals {
+	text-align: center;
+	display: grid;
+	grid-row: 1fr;
+	grid-gap: 5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background: black;
+	color: black;
+	margin-bottom: 5px solid black;
+	margin: 5px;
+}
+
+.the animals {
+	padding: 10px;
+	background: powderblue;
+	font-family: MS gothic;
+	font-style: center;
+	color: black;
+}
+
+.the animals:hover {
+	background: pink;
+	color: orangered;
+}
+
+.fox {
+	padding: 5px;
+	background: powderblue;
+	font-family: MS gothic;
+	font-size: 10px;
+	color: black;
+}
+
+.fox:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container4 {
+	padding: 10px;
+	background: palegreen;
+	font-family: MS gothic;
+	font-style: center;
+	color: black;
+}
+
+.container4:hover {
+	background: pink;
+	color: orangered;
+}
+
+.cat {
+	padding: 10px;
+	background: powderblue;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.cat:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container5 {
+	padding: 10px;
+	background: palegreen;
+	font-family: MS gothic;
+	font-style: center;
+	color: black;
+}
+
+.container5:hover {
+	background: pink;
+	color: orangered;
+}
+
+.eagle {
+	padding: 10px;
+	background: powderblue;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.eagle:hover {
+	background: pink;
+	color: orangered;
+}
+
+.container6 {
+	padding: 10px;
+	background: palegreen;
+	font-family: MS gothic;
+	font-style: center;
+	color: black;
+}
+
+.container6:hover {
+	background: pink;
+	color: orangered;
+}
+
+.lion {
+	padding: 10px;
+	background: pink;
+	font-family: MS gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.lion:hover {
+	background: pink;
+	color: orangered;
+}
+
+.news {
+	text-align: center;
+	display: grid;
+	grid-row: 1fr;
+	grid-gap: 5px;
+	grid-template-columns: 1fr 1fr 1fr;
+	background: white;
+	color: black;
+	margin-bottom: 5px solid black;
+	margin: 5px;
+}
+
+.container {
+	padding: 10px;
+	background: turquoise;
+	font-family: MS gothic;
+	font-style: center;
+	color: black;
+}
+
+.container:hover {
+	background: lemonchiffon;
+}
+
+.container2 {
+	padding: 10px;
+	background: turquoise;
+	font-family: MS Gothic;
+	font-style: center;
+	color: black;
+}
+
+.container2:hover {
+	background: lemonchiffon;
+}
+	
+.container8 {
+	padding: 10px;
+	background: turquoise;
+	font-family: MS Gothic;
+	font-style: center;
+	color: black;
+}
+
+.container8:hover {
+	background: lemonchiffon;
+}
